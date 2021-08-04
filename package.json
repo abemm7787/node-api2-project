@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "knex": "^0.95.9",
+    "sqlite": "^4.0.23",
     "sqlite3": "^5.0.2"
   },
   "devDependencies": {
